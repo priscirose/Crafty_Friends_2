@@ -220,6 +220,10 @@ a:not([href]):not([class]), a:not([href]):not([class]):hover {
   text-decoration: none;
 }
 
+.no-underline {
+  text-decoration: none !important;
+}
+
 pre,
 code,
 kbd,
